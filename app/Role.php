@@ -10,7 +10,7 @@ class Role extends EntrustRole
     const SUPER_ADMIN = 'super.admin';
     const POD_ADMIN = 'pod.admin';
     const POD_ADVANCED_USER = 'pod.advanced';
-    const POD_BASIC_USER = 'pod.basic';
-    const POD_USER = 'pod.subscriber';
+    const POD_BASIC_MEMBER = 'pod.basic';
+    const POD_SUBSCRIBER = 'pod.subscriber';
     const GUEST = 'guest';
 }
